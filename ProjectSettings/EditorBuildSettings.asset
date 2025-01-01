@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Kapak.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Page1.unity
+    guid: 256bd50843327144bb3350dd2a86677f
+  - enabled: 1
+    path: Assets/Scenes/Page2.unity
+    guid: 2480c3f450619ba4d940ac7d193f0954
+  - enabled: 1
+    path: Assets/Scenes/Page3.unity
+    guid: 5947a2aacec72254587556c0ec38682a
+  - enabled: 1
+    path: Assets/Scenes/Page4.unity
+    guid: 3df7e08b38c3c28408aa6d0ae1854df3
+  - enabled: 1
+    path: Assets/Scenes/Page5.unity
+    guid: 6a003a694e0bd8a409258b34e8e60940
+  - enabled: 1
+    path: Assets/Scenes/Page6.unity
+    guid: 0a6c8012b97c06748a2ffedaaeaaf298
+  - enabled: 1
+    path: Assets/Scenes/Page7.unity
+    guid: 5f162ff1ca9c5fb49ad54af286364db8
+  - enabled: 1
+    path: Assets/Scenes/Page8.unity
+    guid: f5975aa57cdbe4e4dbb13b6b0dade7f7
+  - enabled: 1
+    path: Assets/Scenes/Page9.unity
+    guid: d60c5e58b70b65c43827e2e862c4a24e
+  - enabled: 1
+    path: Assets/Scenes/Page10.unity
+    guid: 9a73b3967ce3593479295a79314bfbc1
+  m_configObjects: {}
